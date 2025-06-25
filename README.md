@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahul Kumar Sahu
 
-🚀 A passionate full-stack developer, AI/ML enthusiast, and creative 3D web designer who loves turning ideas into real-world applications!
+🚀 A versatile full-stack developer with a strong interest in AI/ML and expertise in 3D web design, committed to transforming innovative ideas into impactful, real-world solutions.
 
 ---
 
@@ -61,22 +61,20 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulksahu&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-kumar-sahu9230&show_icons=true&theme=radical" alt="Rahul's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rahulksahu&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-kumar-sahu9230&theme=radical&hide_border=false" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulksahu&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-kumar-sahu9230&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rahulksahu)
-- 🧠 [GitHub](https://github.com/rahulksahu)
-- 📫 Email: rahulksahu.dev@gmail.com
-
----
+- 💼 [LinkedIn](https://www.linkedin.com/in/rahul-kumar-sahu-tech/)
+- 🧠 [GitHub](https://github.com/rahul-kumar-sahu9230)
+- 📫 Email: rahul8789sahu@gmail.com
 
 _✨ Creating real-world magic with code and creativity ✨_
 
