@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahul Kumar Sahu
 
-🚀 A versatile full-stack developer with a strong interest in AI/ML and expertise in 3D web design, committed to transforming innovative ideas into impactful, real-world solutions.
+🚀 A full-stack developer with a keen interest in AI/ML and specialized expertise in 3D web development, dedicated to translating innovative concepts into practical, high-impact solutions.
 
 ---
 
